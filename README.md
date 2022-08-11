@@ -10,11 +10,6 @@ One of the nicest features of MPV is that it requires no installation and can be
 4. And double clik MPV.exe
 
 
-# Screenshots
-![alt text](https://i.imgur.com/aDkaOTJ.png)
-
-![alt text](https://i.imgur.com/gRo0j4t.png)
-
 
 # Resources:
    GUI build: https://sourceforge.net/projects/mpv-player-windows/files/  
