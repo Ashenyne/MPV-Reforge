@@ -1,5 +1,5 @@
-# MPV-Shadow
-MPV Player - Shadow is an evolution of the Light version.
+
+
 
 # Installation:
 
