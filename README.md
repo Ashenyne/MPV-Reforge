@@ -9,6 +9,9 @@ One of the nicest features of MPV is that it requires no installation and can be
 3. Unzip MPV Player.
 4. And double clik MPV.exe
 
+# Screenshot
+
+<a href="https://imgur.com/fbjdKqg"><img src="https://i.imgur.com/fbjdKqg.png" title="source: imgur.com" /></a>
 
 
 # Resources:
