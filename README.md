@@ -15,3 +15,4 @@ One of the nicest features of MPV is that it requires no installation and can be
    GUI build: https://sourceforge.net/projects/mpv-light/ 
    Collection of user scripts: https://github.com/mpv-player/mpv/wiki/User-Scripts  
    MPV properties page: https://mpv.io/manual/master/#synopsis
+
