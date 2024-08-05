@@ -1,5 +1,4 @@
-# MPV Player - Reforge
-
+# MPV Player - Modern Style
 
 # Installation:
 
@@ -11,11 +10,11 @@ One of the nicest features of MPV is that it requires no installation and can be
 
 # Screenshot
 
-<a href="https://imgur.com/fbjdKqg"><img src="https://i.imgur.com/fbjdKqg.png" title="source: imgur.com" /></a>
+
 
 
 # Resources:
-   GUI build: https://sourceforge.net/projects/mpv-light/ 
+   GUI build: 
    
    Collection of user scripts: https://github.com/mpv-player/mpv/wiki/User-Scripts  
    MPV properties page: https://mpv.io/manual/master/#synopsis
